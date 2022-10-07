@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Password_Encryption</string>
+
+    <string name="encryption_title">Enter the Cypher Shift Number:</string>
+    <string name="enter_btn">Enter</string>
+    <string name="text_enter_title">Enter the Text to Encrypt:</string>
+    <string name="text_result">Result:</string>
+    <string name="encrypt_btn">Encrypt</string>
+</resources>
